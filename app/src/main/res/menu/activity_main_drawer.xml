@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_menu_login"
+            android:title="Login / Signup" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_giftcards"
+            android:title="Package" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Table Booking" />
+
+        <item
+            android:id="@+id/nav_manage1"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Event and Meeting" />
+        <item
+            android:id="@+id/nav_manage3"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Take Away Booking" />
+
+        <item
+            android:id="@+id/nav_manage4"
+            android:icon="@drawable/ic_menu_favorite"
+            android:title="Favorite" />
+        <item
+            android:id="@+id/nav_manage5"
+            android:icon="@drawable/ic_menu_price_display"
+            android:title="Price Display" />
+
+        <item
+            android:id="@+id/nav_manage6"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Customer Serivce" />
+        <item
+            android:id="@+id/nav_manage7"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="About us" />
+        <item
+            android:id="@+id/nav_manage8"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Contact us" />
+    </group>
+</menu>
